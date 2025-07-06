@@ -8,6 +8,6 @@ Tools used: Google Admin Toolbox, PhishTool, VirusTotal, Any.run
 
 .eml files source:
 
-https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/
+Email1: https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/
 
-https://cyberdefenders.org/blueteam-ctf-challenges/brabbit/
+Email2: https://cyberdefenders.org/blueteam-ctf-challenges/brabbit/
