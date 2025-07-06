@@ -6,6 +6,8 @@ This project involves analyzing 2 phishing emails obtained as .eml files and cre
 Tools used: Google Admin Toolbox, PhishTool, VirusTotal, Any.run
 <br><br>
 
+Report1: https://github.com/r00tkit77/phishing_emails_analysis/blob/main/email1_report.md
+
 .eml files source:
 
 Email1: https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/
