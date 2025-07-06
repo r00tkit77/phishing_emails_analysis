@@ -4,7 +4,10 @@ Analysis of malicious phishing emails with headers, links and attachment inspect
 This project invovles analyzing 2 phishing emails obtained as .eml files and creating a report.
 
 Tools used: Google Admin Toolbox, PhishTool, VirusTotal, Any.run
+<br><br>
 
 .eml files source:
-https://cyberdefenders.org/walkthroughs/phishstrike/
-https://cyberdefenders.org/walkthroughs/brabbit/
+
+https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/
+
+https://cyberdefenders.org/blueteam-ctf-challenges/brabbit/
