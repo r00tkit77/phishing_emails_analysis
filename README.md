@@ -8,6 +8,9 @@ Tools used: Google Admin Toolbox, PhishTool, VirusTotal, Any.run
 
 Report1: https://github.com/r00tkit77/phishing_emails_analysis/blob/main/email1_report.md
 
+Report2: https://github.com/r00tkit77/phishing_emails_analysis/blob/main/email2_report.md
+<br><br><br>
+
 .eml files source:
 
 Email1: https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/
