@@ -19,8 +19,8 @@ Recipient:            *Undisclosed*
 
 **Security Details**
 
-SPF:                	SoftFail<br>
-DKIM:	                Fail<br>
+SPF:                	4 Soft Fail<br>
+DKIM:	                Neutral<br>
 DMARC:                Fail
 <br><br>
 
@@ -70,7 +70,7 @@ Target:	*Undisclosed recipients*
   </tr>
   <tr>
     <td>Execution</td>
-    <td>User Execution: Malicious File</td>
+    <td>Malicious File</td>
     <td>T1204.002</td>
     <td>An adversary may rely upon a user opening a malicious file in order to gain execution. </td>
   </tr>
