@@ -1,17 +1,14 @@
 # phishing_emails_analysis
-Analysis of malicious phishing emails with headers, links and attachment inspection.
+**Project Objective:** To analyze malicious phishing emails with headers, links and attachment inspection and creating a report.
 
-This project involves analyzing 2 phishing emails obtained as .eml files and creating a report.
+**Tools used:** Google Admin Toolbox, PhishTool, VirusTotal, Any.run
 
-Tools used: Google Admin Toolbox, PhishTool, VirusTotal, Any.run
+**Email 1 Report:** https://github.com/r00tkit77/phishing_emails_analysis/blob/main/email1_report.md
+
+**Email 2 Report:** https://github.com/r00tkit77/phishing_emails_analysis/blob/main/email2_report.md
 <br><br>
 
-Report1: https://github.com/r00tkit77/phishing_emails_analysis/blob/main/email1_report.md
-
-Report2: https://github.com/r00tkit77/phishing_emails_analysis/blob/main/email2_report.md
-<br><br><br>
-
-.eml files source:
+**Email source (.eml file):**
 
 Email1: https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/
 
